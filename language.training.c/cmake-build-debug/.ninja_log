@@ -1,0 +1,24 @@
+# ninja log v6
+3224	12902	7458831829018392	CMakeFiles/language_training.dir/caracterASCII.c.obj	3b8876e95b4cd5fb
+1986	13264	7458831816649670	CMakeFiles/language_training.dir/consumoMedio.c.obj	7b6c141d60016045
+128	13530	7458831798065131	CMakeFiles/language_training.dir/mediaFinal.c.obj	68e2b8b951876296
+12904	20713	7458831925834911	CMakeFiles/language_training.dir/temperatura.c.obj	72d1a87fd61f6484
+13264	24974	7458831929433731	CMakeFiles/language_training.dir/hipotenusa.c.obj	d116c415392d8e01
+24974	38425	7458832046528732	language_training.exe	f9b20fb77e269810
+10	3682	7458840179525437	CMakeFiles/language_training.dir/mediaFinal.c.obj	68e2b8b951876296
+46	1565	7458842549181141	CMakeFiles/language_training.dir/mediaFinal.c.obj	68e2b8b951876296
+21	2636	7458850045317267	language_training.exe	f9b20fb77e269810
+12	2132	7458850754290923	CMakeFiles/language_training.dir/mediaFinal.c.obj	68e2b8b951876296
+2133	4256	7458850775496301	language_training.exe	f9b20fb77e269810
+39	2112	7458852353452785	CMakeFiles/language_training.dir/mediaFinal.c.obj	68e2b8b951876296
+327	2874	7458852356331838	CMakeFiles/language_training.dir/consumoMedio.c.obj	7b6c141d60016045
+10	1396	7458852591196231	CMakeFiles/language_training.dir/mediaFinal.c.obj	68e2b8b951876296
+9	1612	7458853828632509	CMakeFiles/language_training.dir/consumoMedio.c.obj	7b6c141d60016045
+1613	3263	7458853844675770	language_training.exe	f9b20fb77e269810
+8	1519	7458854324276365	CMakeFiles/language_training.dir/mediaFinal.c.obj	68e2b8b951876296
+1539	3412	7458854339581320	language_training.exe	f9b20fb77e269810
+9	1575	7458859035826289	CMakeFiles/language_training.dir/mediaFinal.c.obj	68e2b8b951876296
+128	2226	7458859037015905	CMakeFiles/language_training.dir/consumoMedio.c.obj	7b6c141d60016045
+7	1065	7458859368203224	CMakeFiles/language_training.dir/consumoMedio.c.obj	7b6c141d60016045
+9	1096	7458859471058765	CMakeFiles/language_training.dir/mediaFinal.c.obj	68e2b8b951876296
+1098	3091	7458859481945169	language_training.exe	f9b20fb77e269810

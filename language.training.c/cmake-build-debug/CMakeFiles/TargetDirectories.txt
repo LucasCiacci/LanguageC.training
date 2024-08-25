@@ -1,0 +1,3 @@
+C:/Users/USUARIO/Desktop/Lucas/Computação/IDE/CLion/language.training/cmake-build-debug/CMakeFiles/language_training.dir
+C:/Users/USUARIO/Desktop/Lucas/Computação/IDE/CLion/language.training/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USUARIO/Desktop/Lucas/Computação/IDE/CLion/language.training/cmake-build-debug/CMakeFiles/rebuild_cache.dir
