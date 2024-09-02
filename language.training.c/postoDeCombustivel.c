@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+//Treinando as estruturas de seleção switch e if-else
 int main(){
 	float litros,valoraserpago;
 	int tipo;
